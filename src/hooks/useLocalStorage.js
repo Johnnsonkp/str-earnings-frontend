@@ -18,3 +18,7 @@ export default function useLocalStorage(key, defaultValue) {
 
   return [value, setValue];
 }
+
+// id: "d11804df-984c-45fc-a59b-b2b1f8cb2f05";
+// max: 1539;
+// name: "3012/220 Spencer StMelbourne VIC 3000";
